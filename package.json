@@ -1,0 +1,13 @@
+{
+  "name": "knex-js-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alimertcakar/knex-js-playground.git",
+  "author": "Ali Mert Çakar <mail@alimert.net>",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.21.17",
+    "objection": "^2.2.14",
+    "pg": "^8.5.1"
+  }
+}
